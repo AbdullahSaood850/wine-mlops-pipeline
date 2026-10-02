@@ -13,7 +13,7 @@ from mlflow.tracking import MlflowClient
 from src.data import load_and_split_data
 
 TRACKING_URI = "sqlite:///mlflow.db"
-EXPERIMENT_NAME = "Wine-Cultivar-Classification"
+EXPERIMENT_NAME = "Wine-Cultivar-Experiment-v1"
 REGISTERED_MODEL_NAME = "WineClassifier"
 
 
