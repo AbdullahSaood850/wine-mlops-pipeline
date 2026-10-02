@@ -1,6 +1,6 @@
 # Wine Cultivar Classification MLOps Pipeline
 
-[![CI Pipeline](https://github.com/Abdullah-Khan-Niazi/wine-mlops-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/Abdullah-Khan-Niazi/wine-mlops-pipeline/actions)
+[![CI Pipeline](https://github.com/AbdullahSaood850/wine-mlops-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/AbdullahSaood850/wine-mlops-pipeline/actions)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![MLflow Tracking](https://img.shields.io/badge/MLflow-Tracking-0194E2.svg)](https://mlflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)

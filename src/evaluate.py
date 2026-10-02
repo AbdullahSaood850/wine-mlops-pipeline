@@ -1,6 +1,12 @@
 """Inference verification module: loads champion model and evaluates on test split."""
 
-from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, f1_score, log_loss
+from sklearn.metrics import (
+    accuracy_score,
+    classification_report,
+    confusion_matrix,
+    f1_score,
+    log_loss,
+)
 
 import mlflow
 import mlflow.sklearn

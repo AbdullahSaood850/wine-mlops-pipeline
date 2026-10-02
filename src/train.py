@@ -163,6 +163,7 @@ def train_and_track_all():
                 artifact_path="model",
                 signature=signature,
                 input_example=input_example,
+                skops_trusted_types=["sklearn.tree._tree.Tree"],
             )
 
             run_records.append({
