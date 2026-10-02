@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# MLflow tracking and SQLite database
+mlruns/
+mlflow.db
+mlflow.db-journal
+
+# Pytest cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Transient model artifacts and temporary files
+*.pkl
+*.joblib
+*.log
+.DS_Store
